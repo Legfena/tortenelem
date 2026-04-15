@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Töri/Vizsga/Széchényi István és a reformkor.md",
+                "file": "Fizika/Imre Gecizéséhez.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Széchényi István és a reformkor"
+              "title": "Imre Gecizéséhez"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Töri/Vizsga/Széchényi István és a reformkor.md",
+                "file": "Fizika/Imre Gecizéséhez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Széchényi István és a reformkor"
+              "title": "Backlinks for Imre Gecizéséhez"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Töri/Vizsga/Széchényi István és a reformkor.md",
+                "file": "Fizika/Imre Gecizéséhez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Széchényi István és a reformkor"
+              "title": "Outgoing links from Imre Gecizéséhez"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Töri/Vizsga/Széchényi István és a reformkor.md",
+                "file": "Fizika/Imre Gecizéséhez.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Széchényi István és a reformkor"
+              "title": "Outline of Imre Gecizéséhez"
             }
           }
         ]
@@ -186,6 +186,9 @@
   "active": "3b05cdcf185abf37",
   "lastOpenFiles": [
     "Töri/Vizsga/Mária Terézia és II. József.md",
-    "Töri/Vizsga/Széchényi István és a reformkor.md"
+    "Fizika/Imre Gecizéséhez.md",
+    "Töri/Vizsga/Széchényi István és a reformkor.md",
+    "Fizika",
+    "README.md"
   ]
 }
