@@ -19,7 +19,7 @@
 ### Nehézségi erő
 
 - A Föld a testeket magához vonzza.
-- A nehézségi erő: F=m⋅gF = m \cdot gF=m⋅g
+- A nehézségi erő: ![[Pasted image 20260415201033.png]]
 - g ≈ 9,81 m/s² (Földön)
 
 ### Súly és súlytalanság
