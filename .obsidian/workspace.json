@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizika/Gravitáció.md",
+                "file": "Irodalom/Petőfi Sándor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gravitáció"
+              "title": "Petőfi Sándor"
             }
           }
         ]
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of Gravitáció"
             }
+          },
+          {
+            "id": "dba6de0ce521028a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,13 +196,15 @@
   },
   "active": "3b05cdcf185abf37",
   "lastOpenFiles": [
-    "Pasted image 20260415201033.png",
-    "Fizika/Imre Gecizéséhez.md",
     "Fizika/Gravitáció.md",
-    "Pasted image 20260415200719.png",
-    "Töri/Vizsga/Mária Terézia és II. József.md",
+    "Fizika/Imre Gecizéséhez.md",
+    "Irodalom/Petőfi Sándor.md",
+    "Irodalom",
     "Töri/Vizsga/Széchényi István és a reformkor.md",
+    "Töri/Vizsga/Mária Terézia és II. József.md",
+    "Pasted image 20260415201033.png",
     "README.md",
+    "Pasted image 20260415200719.png",
     "Fizika"
   ]
 }
