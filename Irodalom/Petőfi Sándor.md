@@ -17,3 +17,5 @@
 - A szabadságharc alatt **Bem József** tábornok seregéhez csatlakozott, aki segédtisztjévé nevezte ki és fiaként szerette a költőt. 
 
 - <font color="#b2a2c7">1849 július 31-én</font>, a segesvári csata zűrzavarában tűnt el örökre; halálának pontos körülményei és sírhelye mindmáig ismeretlen.
+
+Kommit
