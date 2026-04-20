@@ -1,6 +1,6 @@
 - <font color="#b2a2c7">1823 január 1-jén</font> született Kiskőrösön **Petrovics István** mészárosmester és **Hrúz Mária** gyermekeként, de Félegyházát tartotta igazi szülőföldjének. 
 
-- Diákévei alatt összesen kilenc különböző iskolában fordult meg, tanulmányait végül <font color="#b2a2c7">1842-ben </font>Pápán kellett abbahagynia pénztelenség miatt. 
+- Diákévei alatt összesen kilenc különböző iskolában fordult meg, tanulmányait végül <font color="#b2a2c7">1842-ben </font>Pápán kellett abbahagynia pénzhiány miatt. 
 
 - <font color="#b2a2c7">1839 februárjában</font> Sopronban katonának állt, de gyenge egészségi állapota miatt <font color="#b2a2c7">1841-ben</font> elbocsátották a seregből. 
 
@@ -17,5 +17,3 @@
 - A szabadságharc alatt **Bem József** tábornok seregéhez csatlakozott, aki segédtisztjévé nevezte ki és fiaként szerette a költőt. 
 
 - <font color="#b2a2c7">1849 július 31-én</font>, a segesvári csata zűrzavarában tűnt el örökre; halálának pontos körülményei és sírhelye mindmáig ismeretlen.
-
-Kommit
